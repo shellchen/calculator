@@ -27,6 +27,8 @@ p array
 p array.uniq
 
 #7
+# Array has no Key, but ordered list.
+# Hash must have Key, and Key must be unique.
 
 #8
 h1 = { :a => 1, :b => 2, :c => 3 }
@@ -52,3 +54,6 @@ p ary[0]
 p ary[1][:d]
 
 #15
+# I bought Dash to use API documents offline on my Mac.
+# same as official documents and easily to search.
+# also I make some snippets in Dash too.
